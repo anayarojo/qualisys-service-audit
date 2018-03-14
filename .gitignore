@@ -1,0 +1,12 @@
+﻿**/bin/*
+**/obj/*
+**.*.suo
+**.v12.suo
+**.rar
+**.exe
+**/Debug/*
+**/Release/*
+!**/DLL/*.dll
+**/TestResults
+**/packages/*
+**.htm
