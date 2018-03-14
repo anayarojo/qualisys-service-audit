@@ -2,7 +2,7 @@
 
 Service to validate the right functioning of other Windows services.
 
-Basic configuration
+#### Basic configuration
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
